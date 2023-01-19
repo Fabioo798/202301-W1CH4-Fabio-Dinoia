@@ -10,4 +10,5 @@ Maqueta con HTML y CSS las capturas adjuntas (mobile y desktop), teniendo en cue
 -HTML semántico y validado con su validador web
 -CSS con SASS, validado con su validador web
 -En el challenge se ponen a prueba los conocimientos previo de CSS, que serán revisados con detalle en la siguiente sesión.
+
 # 202301-W1CH4-Fabio-Dinoia
